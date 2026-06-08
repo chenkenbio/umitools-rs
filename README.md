@@ -7,6 +7,10 @@ This is not the original UMI-tools package. The original project is
 the behavioral reference for this crate. This Rust crate currently supports
 only `dedup`.
 
+This reimplementation was produced by
+[OpenAI Codex](https://openai.com/codex/) and
+[Claude Code](https://www.anthropic.com/product/claude-code).
+
 ## Build
 
 ```bash
